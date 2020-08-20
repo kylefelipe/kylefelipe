@@ -1,4 +1,4 @@
-### oi, eu sou Kyle Felipe 👋
+### Oi, eu sou Kyle Felipe 👋
 
 Um poouco sobre mim:
 

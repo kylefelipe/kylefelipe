@@ -1,6 +1,6 @@
 ### Oi, eu sou Kyle Felipe 👋
 
-Um poouco sobre mim:
+Um pouco sobre mim:
 
 - 🔭 Procurando por trabalho.
 - 🌱 Atualmente cursando Desenvolvimento Web Full Stack na Trybe.

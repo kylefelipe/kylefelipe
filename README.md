@@ -11,6 +11,10 @@ Um pouco sobre mim:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylefelipe&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Linguagens:
+![Python](./img/python.svg)
+
+
 <details>
   <summary> <b>Things to know about me! </b> <i>(Click to expand)</i> </summary>
     <b>

@@ -15,8 +15,10 @@ Linguagens:
 ![Python](./img/python.svg) ![JavaScript](./img/js.svg) ![Css](./img/css3.png)
 
 Banco de dados:
-
-![SQL](./img/sql.png) ![PostgreSQL](./img/postgresql.png)
+<div>
+<img src="./img/sql.png" alt="SQL language"/>
+<img src="./img/postgresql.png" alt="PostgreSQL DB">
+</div>
 
 Frameworks/Libs
 

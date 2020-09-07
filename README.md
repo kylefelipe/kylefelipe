@@ -12,25 +12,25 @@ Um pouco sobre mim:
 
 Linguagens:
 
-![Python](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/python.svg) ![JavaScript](./img/js.svg) ![Css](./img/css3.png)
+![Python](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/python.svg) ![JavaScript](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/img/js.svg) ![Css](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/css3.png)
 
 Banco de dados:
 <div>
-<img src="./img/sql.png" alt="SQL language"/>
-<img src="./img/postgresql.png" alt="PostgreSQL DB">
+<img src="https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/sql.png" alt="SQL language"/>
+<img src="https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/postgresql.png" alt="PostgreSQL DB">
 </div>
 
 Frameworks/Libs
 
-![React](img/react.svg) ![NodeJs](./img/nodejs.svg)
+![React](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/react.svg) ![NodeJs](./img/nodejs.svg)
 
 Tools:  
 
-![Bash](./img/bash.svg)
+![Bash](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/bash.svg)
 
 Find me:
 
-[![Linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/kylefelipe/) [![Youtube - ThinFree Geo](img/youtube.svg)](https://www.youtube.com/thinkfreegeo)
+[![Linkedin](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/linkedin.svg)](https://www.linkedin.com/in/kylefelipe/) [![Youtube - ThinFree Geo](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/youtube.svg)](https://www.youtube.com/thinkfreegeo)
 
 <details>
   <summary><b>O que estou aprendendo</b> <i>(Click to expand)</i></summary>

@@ -12,7 +12,9 @@ Um pouco sobre mim:
 
 Linguagens:
 
-![Python](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/python.svg) ![JavaScript](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/img/js.svg) ![Css](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/css3.png)
+![Python](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/python.svg)  
+![JavaScript](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/js.svg)  
+![Css](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/css3.png)  
 
 Banco de dados:
 <div>

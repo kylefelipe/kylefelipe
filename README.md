@@ -31,8 +31,8 @@ Find me:
 
 [![Linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/kylefelipe/) [![Youtube - ThinFree Geo](img/youtube.svg)](https://www.youtube.com/thinkfreegeo)
 
-<!-- <details>
-  <summary> <b>Things to know about me! </b> <i>(Click to expand)</i> </summary>
-    <b>
-    Coloque aqui umas coisas
- <details> -->
+<details>
+  <summary><b>O que estou aprendendo</b> <i>(Click to expand)</i></summary>
+    <li> React - Context API & Hooks</li>
+    <li style="text-decoration: line-through"> React - Redux</li>
+ <details>

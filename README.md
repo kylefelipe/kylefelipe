@@ -12,7 +12,7 @@ Um pouco sobre mim:
 
 Linguagens:
 
-![Python](./img/python.svg) ![JavaScript](./img/js.svg) ![Css](./img/css3.png)
+![Python](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/python.svg) ![JavaScript](./img/js.svg) ![Css](./img/css3.png)
 
 Banco de dados:
 <div>

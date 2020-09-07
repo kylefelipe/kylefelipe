@@ -24,7 +24,7 @@ Banco de dados:
 
 Frameworks/Libs
 
-![React](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/react.svg) ![NodeJs](./img/nodejs.svg)
+![React](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/react.svg) ![NodeJs](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/nodejs.svg)
 
 Tools:  
 

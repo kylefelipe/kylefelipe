@@ -25,17 +25,24 @@ Banco de dados:
 Frameworks/Libs
 
 ![React](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/react.svg) ![NodeJs](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/nodejs.svg)
+![Angular](./img/angular.png)
 
 Tools:  
 
 ![Bash](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/bash.svg)
+![VS Code](./img/visualstudio_code.png)
+![Docker](./img/docker.png)
 
 Find me:
 
 [![Linkedin](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/linkedin.svg)](https://www.linkedin.com/in/kylefelipe/) [![Youtube - ThinFree Geo](https://raw.githubusercontent.com/kylefelipe/kylefelipe/master/img/youtube.svg)](https://www.youtube.com/thinkfreegeo)
 
 <details>
-  <summary><b>O que estou aprendendo</b> <i>(Click to expand)</i></summary>
-    <li> React - Context API & Hooks</li>
-    <li style="text-decoration: line-through"> React - Redux</li>
- <details>
+  <summary>
+    <b>O que estou aprendendo</b> 
+      <i>(Click to expand)</i>
+    </summary>
+      <li style="text-decoration: line-through"> React - Context API & Hooks</li>
+      <li style="text-decoration: line-through"> React - Redux</li>
+      <li> Docker</li>
+<details>

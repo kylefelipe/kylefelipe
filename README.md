@@ -2,8 +2,8 @@
 
 Um pouco sobre mim:
 
-- 🔭 Procurando por trabalho.
-- 🌱 Atualmente cursando Desenvolvimento Web Full Stack na Trybe.
+- 🔭 ~~Procurando por trabalho~~.
+- 🌱 ~~Atualmente cursando Desenvolvimento Web Full Stack na Trybe~~.
 - 📫 Me encontre no Telegram kyle_felipe  
 
 ![Kyle Felipe's github stats](https://github-readme-stats.vercel.app/api?username=kylefelipe&show_icons=true&theme=blue-green)

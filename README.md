@@ -4,6 +4,7 @@ Um pouco sobre mim:
 
 - ~~🔭 Procurando por trabalho~~.
 - 📫 Me encontre no Telegram kyle_felipe  
+- e-mail: kylefelipe@gmail.com
 
 ![Kyle Felipe's github stats](https://github-readme-stats.vercel.app/api?username=kylefelipe&show_icons=true&theme=blue-green)
 

@@ -2,9 +2,9 @@
 
 Um pouco sobre mim:
 
-- ~~🔭 Procurando por trabalho~~.
-- 📫 Me encontre no Telegram kyle_felipe  
-- e-mail: kylefelipe@gmail.com
+- ~~🔭 Procurando por trabalho~~.  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Kyle_Felipe)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kylefelipe@gmail.com)
 
 ![Kyle Felipe's github stats](https://github-readme-stats.vercel.app/api?username=kylefelipe&show_icons=true&theme=blue-green)
 
